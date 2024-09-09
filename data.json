@@ -1,0 +1,8 @@
+[
+    { "name": "Course 1", "category": "Programming" },
+    { "name": "Course 2", "category": "Design" },
+    { "name": "Course 3", "category": "Data Science" },
+    { "name": "Course 4", "category": "Networking" },
+    { "name": "Course 5", "category": "Programming" },
+    { "name": "Course 6", "category": "Business" }
+]
